@@ -1,0 +1,9 @@
+jupyter==1.0.0
+numpy==2.0.0
+pandas==2.2.2
+matplotlib==3.9.1
+seaborn==0.13.2
+nixtla==0.6.0
+pytrends==4.9.2
+requestsexceptions==1.4.0
+statsforecast==1.7.8
